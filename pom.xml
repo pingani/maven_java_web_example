@@ -21,6 +21,7 @@
 			<scope>provided</scope>
 		</dependency>
 
+		<!--dummy -->
 		<dependency>
 			<groupId>org.codehaus.jackson</groupId>
 			<artifactId>jackson-mapper-asl</artifactId>
