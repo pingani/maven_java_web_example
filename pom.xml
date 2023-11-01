@@ -6,7 +6,7 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<name>api</name>
 	<packaging>war</packaging>
-<profiles>
+ <profiles>
   <profile>
       <id>owasp-dependency-check</id>
       <build>
@@ -14,7 +14,7 @@
           <plugin>
             <groupId>org.owasp</groupId>
             <artifactId>dependency-check-maven</artifactId>
-	    <version>4.0.0</version>
+	    <version>7.1.1</version>
 	    <configuration>
              <formats>ALL</formats>
 	    </configuration>
