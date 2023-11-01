@@ -6,7 +6,7 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<name>api</name>
 	<packaging>war</packaging>
-</profiles>
+<profiles>
   <profile>
       <id>owasp-dependency-check</id>
       <build>
